@@ -1,0 +1,1 @@
+C2MA layered hero prototype. Deploy folder to Netlify Drop. Layers are individually replaceable PNG/WebP and anchored to a 1536x590 coordinate system. The extracted layers and reconstructed scene are approximate; the AI source images have differing geometry. This is not yet a pixel-perfect clean plate or rigged animation. Edit assets in assets/ and CSS in index.html.
